@@ -1,0 +1,6 @@
+com\shazra\users\api\service\SubscriberServiceTest.class
+com\shazra\users\api\service\UserServiceTest.class
+com\shazra\users\api\AllTests.class
+com\shazra\users\api\domain\UserTest.class
+com\shazra\users\api\service\SessionServiceTest.class
+com\shazra\users\api\domain\SubscriberTest.class
