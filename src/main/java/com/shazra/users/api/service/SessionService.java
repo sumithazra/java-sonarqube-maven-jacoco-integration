@@ -15,7 +15,7 @@ import com.shazra.users.api.domain.User;
  * Service Layer. {@link SessionService}. Handles the sessions and provides
  * tokens once a {@link User} is logged in.
  * 
- * @author pangio
+ * @author Sumit hazra
  */
 @Component
 public class SessionService {
